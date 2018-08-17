@@ -1,3 +1,29 @@
 h1 {
     color: white;
 }
+
+body {
+    background-color: #B6608D;
+
+}
+
+#logo {
+    width: 170px
+}
+
+.navbar {
+    background-color: #B6608D;
+    border: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.navbar-nav {
+    margin-top: 37px;
+    
+}
+
+.navbar-link {
+    color: white !important;
+}

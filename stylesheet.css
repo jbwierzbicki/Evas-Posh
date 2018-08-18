@@ -16,15 +16,14 @@ body {
     border: none;
     margin-left: 10%;
     margin-right: 10%;
-    
+
 }
 
 .navbar-nav {
     margin-top: 37px;
-    
 }
 
-.navbar-link { 
+.navbar-link {
     color: white !important;
 }
 

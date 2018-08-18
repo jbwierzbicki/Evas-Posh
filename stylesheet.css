@@ -27,3 +27,10 @@ body {
 .navbar-link {
     color: white !important;
 }
+
+.nav li a:active {
+    background-color: blue !important;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.2); }

@@ -35,7 +35,7 @@ body {
 .grow:hover { transform: scale(1.2); }
 
 .table-responsive {
-    padding-top: 70px;
+    padding-top: 20px;
     margin-left: 13%;
     margin-right: 13%;
 }
@@ -46,4 +46,8 @@ body {
     content-align: center;
     background-color: white;
     height: 250px;
+}
+
+.table {
+    margin-top: 30px;
 }

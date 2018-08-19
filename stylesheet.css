@@ -44,8 +44,11 @@ body {
     border: 0px !important;
     text-align: center;
     content-align: center;
-    background-color: white;
-    height: 250px;
+    background-image: url(header-img.png);
+    background-repeat: no-repeat;
+    background-size: auto 250px;
+    background-position: right;
+    height: 250px !important;
 }
 
 .table {

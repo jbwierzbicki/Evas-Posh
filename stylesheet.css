@@ -50,7 +50,7 @@ body {
   background-image: url(header-img.png);
   background-repeat: no-repeat;
   background-size: auto 250px;
-  background-position: right;
+  background-position: 95% 0%;
   height: 250px !important;
 }
 
@@ -80,5 +80,5 @@ body {
 .header-logo {
   height: 250px;
   float: right;
-  padding-right: 5%;
+  margin-right: 5%;
 }

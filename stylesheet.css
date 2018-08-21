@@ -1,69 +1,71 @@
 h1 {
-    color: white;
+  color: white;
 }
 
 body {
-    background-color: #B6608D;
-
+  background-color: #B6608D;
 }
 
 #logo {
-    width: 170px;
+  width: 170px;
 }
 
 .navbar {
-    background-color: #B6608D;
-    border: none;
-    margin-left: 10%;
-    margin-right: 10%;
-
+  background-color: #B6608D;
+  border: none;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .navbar-nav {
-    margin-top: 37px;
+  margin-top: 37px;
 }
 
 .navbar-link {
-    color: white !important;
+  color: white !important;
 }
 
 .nav li a:active {
-    background-color: blue !important;
+  background-color: blue !important;
 }
 
-.grow { transition: all .2s ease-in-out; }
-.grow:hover { transform: scale(1.2); }
+.grow {
+  transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.2);
+}
 
 .table-responsive-1 {
-    padding-top: 20px;
-    margin-left: 13%;
-    margin-right: 13%;
+  padding-top: 20px;
+  margin-left: 13%;
+  margin-right: 13%;
 }
 
 .table-responsive-1 .table thead tr th {
-    border: 0px !important;
-    text-align: center;
-    content-align: center;
-    background-image: url(header-img.png);
-    background-repeat: no-repeat;
-    background-size: auto 250px;
-    background-position: right;
-    height: 250px !important;
+  border: 0px !important;
+  text-align: center;
+  content-align: center;
+  background-image: url(header-img.png);
+  background-repeat: no-repeat;
+  background-size: auto 250px;
+  background-position: right;
+  height: 250px !important;
 }
 
 .table {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .table2 {
-    margin-top: 5px !important;
+  margin-top: 5px !important;
 }
 
 .table-responsive-2 {
-    margin-left: 12% !important;
-    margin-right: 12% !important;
+  margin-left: 12% !important;
+  margin-right: 12% !important;
 }
-
 
 .table2 thead tr th {
   border-width: 0px 15px 15px 15px;
@@ -73,5 +75,10 @@ body {
   opacity: .7;
   text-align: center;
   height: 250px;
+}
 
+.header-logo {
+  height: 250px;
+  float: right;
+  padding-right: 5%;
 }

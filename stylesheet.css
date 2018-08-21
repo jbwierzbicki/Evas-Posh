@@ -66,7 +66,9 @@ body {
 
 
 .table2 thead tr th {
-  border: 15px solid #B6608D !important;
+  border-width: 0px 15px 15px 15px;
+  border-style: solid;
+  border-color: #B6608D !important;
   background-color: white;
   opacity: .7;
   text-align: center;

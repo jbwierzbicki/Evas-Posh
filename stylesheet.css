@@ -72,7 +72,6 @@ body {
   border-style: solid;
   border-color: #B6608D !important;
   background-color: white;
-  opacity: .7;
   text-align: center;
   height: 250px;
 }
@@ -92,4 +91,42 @@ body {
 
 .contact-image {
   width: 50%;
+  background-color: transparent !important;
+}
+
+.cell1 {
+  background-color: #ADFF8C !important;
+  width: 33%;
+}
+
+.cell2 {
+  background-color: #FD7F7F !important;
+  width: 33%;
+}
+
+.cell3 {
+  background-color: #FFC379 !important;
+  width: 33%;
+}
+
+.cell4 {
+  background-color: #71C1FD !important;
+}
+
+.cell5 {
+  background-color: #F7FF78 !important;
+  width: 33%;
+}
+
+.cell6 {
+  background-color: #F5F3F2 !important;
+}
+
+.clothing-img {
+  height: 100%;
+
+}
+
+.contactme-img {
+  height: 155% !important;
 }

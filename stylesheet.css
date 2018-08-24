@@ -23,6 +23,7 @@ body {
 
 .navbar-link {
   color: white !important;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .nav li a:active {
